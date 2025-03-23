@@ -21,9 +21,6 @@ In my free time, you'll find me <strong>exploring nature</strong>, hiking in the
 ### 🪄 Client Side
 [![Client-Side](https://skillicons.dev/icons?i=js,html,css&theme=light&perline=5)](https://skillicons.dev)
 <br/>
-<!--### 🧪 Testing
-[![Client-Side](https://skillicons.dev/icons?i=jest,vitest&perline=5)](https://skillicons.dev)-->
-
 ### 🛠️ Tools
 [![Tools](https://skillicons.dev/icons?i=git,bash,vim,vscode&theme=light&perline=5)](https://skillicons.dev)
 
@@ -35,11 +32,15 @@ In my free time, you'll find me <strong>exploring nature</strong>, hiking in the
 <a href="https://www.linkedin.com/in/jinxuan-l-469680232/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"></a>
 <a href="https://www.github.com/Dino-Lu"><img src="https://img.shields.io/badge/@DinoLu-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 
-<br/><br/>
+<br/>
+
+## Check out Music for Programming!
+
+I found this so cool and wanted to share it. Here's the latest stream from [Music for Programming](https://Dino-Lu.github.io).
 
 <div align="center">
 	<img src = "https://komarev.com/ghpvc/?username=Dino-Lu&style=plastic&color=blueviolet" alt = "Profile Views"/>
   <br/>
-	<img src="https://github.com/7oSkaaa/Dino-Lu/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<!--<img src="https://github.com/Dino-Lu/Dino-Lu/blob/output/github-contribution-grid-snake.gif" alt="snake gif"/>-->
 </div>
 
