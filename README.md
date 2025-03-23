@@ -36,7 +36,7 @@ In my free time, you'll find me <strong>exploring nature</strong>, hiking in the
 
 ## Check out Music for Programming!
 
-I found this so cool and wanted to share it. Here's the latest stream from [Music for Programming](https://Dino-Lu.github.io).
+I found this so cool and wanted to share it. Here's the latest stream from [Music for Programming](https://dino-lu.github.io/Dino-Lu/).
 
 <div align="center">
 	<img src = "https://komarev.com/ghpvc/?username=Dino-Lu&style=plastic&color=blueviolet" alt = "Profile Views"/>
