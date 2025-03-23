@@ -35,12 +35,6 @@ jobs:
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
 
-      # Set output variables using Environment Files
-      - name: Set output URLs
-        run: |
-          echo "GIF_URL=https://github.com/${{ github.repository }}/blob/output/dist/github-contribution-grid-snake.gif" >> $GITHUB_ENV
-          echo "SVG_URL=https://github.com/${{ github.repository }}/blob/output/dist/github-contribution-grid-snake.svg" >> $GITHUB_ENV
-
       # Push the changes
       - name: Push changes
         uses: ad-m/github-push-action@master
