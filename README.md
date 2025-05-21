@@ -1,6 +1,8 @@
 
 # Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/>
 
+[![Visits Badge](https://badges.pufler.dev/visits/YourUsername/Dino-Lu?style=flat-square)](https://github.com/Dino-Lu)
+[![GitHub followers](https://img.shields.io/github/followers/Dino-Lu?style=social)](https://github.com/Dino-Lu?tab=followers)
 
 <div align="justify">
 I'm Jinxuan (Dino) - a lifelong learner, occasional deep diver, and self-driven problem solver. In a past life, I worked in <strong>education & tech</strong> and conducted research in <strong>data science</strong>. Currently, I'm diving into <strong>systems programming</strong>, building projects while sharpening my skills. 
@@ -38,9 +40,4 @@ In my free time, you'll find me <strong>exploring nature</strong>, hiking in the
 
 I found this so cool and wanted to share it. Here's the latest stream from [Music for Programming](https://dino-lu.github.io/Dino-Lu/).
 
-<div align="center">
-	<img src = "https://komarev.com/ghpvc/?username=Dino-Lu&style=plastic&color=blueviolet" alt = "Profile Views"/>
-  <br/>
-	<!--<img src="https://github.com/Dino-Lu/Dino-Lu/blob/output/github-contribution-grid-snake.gif" alt="snake gif"/>-->
-</div>
 
