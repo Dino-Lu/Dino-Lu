@@ -1,43 +1,55 @@
+# Jinxuan (Dino) Lu
 
-# Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/>
+I am building toward a career in data engineering and analytics engineering, with a background in social science, business, and data analysis across China, South Korea, and Europe.
 
-[![Visits Badge](https://badges.pufler.dev/visits/YourUsername/Dino-Lu?style=flat-square)](https://github.com/Dino-Lu)
-[![GitHub followers](https://img.shields.io/github/followers/Dino-Lu?style=social)](https://github.com/Dino-Lu?tab=followers)
+My focus is on building reliable data systems — from ingestion to transformation — and designing data models that support analytics and decision-making.
 
-<div align="justify">
-I'm Jinxuan (Dino) - a lifelong learner, occasional deep diver, and self-driven problem solver. In a past life, I worked in <strong>education & tech</strong> and conducted research in <strong>data science</strong>. Currently, I'm diving into <strong>systems programming</strong>, building projects while sharpening my skills. 
-<br/><br/>
-In my free time, you'll find me <strong>exploring nature</strong>, hiking in the mountains ⛰️, bouldering indoors 🧗, or traveling the world 🌎. 
-</div>
+---
 
-<br/>
+## Projects
 
-## 🔧 Technologies & Tools
+### Retail Sales Analytics Pipeline  
+End-to-end batch data pipeline on GCP using Airflow, dbt, and BigQuery.
 
-### 🗃️ Programming Languages
-[![Languages](https://skillicons.dev/icons?i=c,cpp,py&theme=light&perline=5)](https://skillicons.dev)
-<br/>
-### 📊 Data Science & AI
-[![Data Science](https://skillicons.dev/icons?i=anaconda,r,py,pytorch,sklearn,tensorflow&theme=light&perline=6)](https://skillicons.dev)
-<br/>
-### 🪄 Client Side
-[![Client-Side](https://skillicons.dev/icons?i=js,html,css&theme=light&perline=5)](https://skillicons.dev)
-<br/>
-### 🛠️ Tools
-[![Tools](https://skillicons.dev/icons?i=git,bash,vim,vscode&theme=light&perline=5)](https://skillicons.dev)
+- Built an ELT pipeline from ingestion to warehouse transformation  
+- Designed layered data models (staging → fact → marts) using dbt  
+- Implemented data quality tests and optimized warehouse performance  
 
-<br/>
+Project:  
+https://github.com/Dino-Lu/retail-sales-analytics-pipeline
 
-## 📫 Connect with Me
-<a href="mailto:ji4228lu@gmail.com"><img src="https://img.shields.io/badge/ji4228lu@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/dino.lu.14/"><img src="https://img.shields.io/badge/@dino.lu.14-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/jinxuan-l-469680232/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"></a>
-<a href="https://www.github.com/Dino-Lu"><img src="https://img.shields.io/badge/@DinoLu-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+---
 
-<br/>
+## Skills
 
-## 🎧 Check out Music for Programming!
+- **Languages:** SQL, Python  
+- **Data & Analytics:** data modeling, data transformation, dbt  
+- **Orchestration:** Apache Airflow  
+- **Cloud:** Google Cloud Platform (BigQuery, GCS)  
+- **Infrastructure:** Terraform, Docker
+- **Other:** Git, Bash
 
-I found this so cool and wanted to share it. Here's the latest stream from [Music for Programming](https://dino-lu.github.io/Dino-Lu/).
+---
 
+## Background
+
+- MSc in Social Scientific Data Analysis (Sweden)  
+- Academic background in development studies and business  
+- International experience across Asia and Europe  
+
+---
+
+## Current Focus
+
+- Data pipeline design (batch workflows)  
+- Data modeling for analytics  
+- Data quality and reliability  
+
+---
+
+## Contact
+
+GitHub: https://github.com/Dino-Lu  
+LinkedIn: www.linkedin.com/in/jinxuan-lu
+Email: ji4228lu@gmail.com
 
