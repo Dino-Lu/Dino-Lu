@@ -50,6 +50,13 @@ https://github.com/Dino-Lu/retail-sales-analytics-pipeline
 ## Contact
 
 GitHub: https://github.com/Dino-Lu  
-LinkedIn: www.linkedin.com/in/jinxuan-lu
+LinkedIn: www.linkedin.com/in/jinxuan-lu  
 Email: ji4228lu@gmail.com
+
+<div align="center">
+	<img src = "https://komarev.com/ghpvc/?username=Dino-Lu&style=plastic&color=blueviolet" alt = "Profile Views"/>
+  <br/>
+	<!--<img src="https://github.com/Dino-Lu/Dino-Lu/blob/output/github-contribution-grid-snake.gif" alt="snake gif"/>-->
+</div>
+
 
