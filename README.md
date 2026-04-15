@@ -1,8 +1,8 @@
 # Jinxuan (Dino) Lu
 
-I am building toward a career in data engineering and analytics engineering, with a background in social science, business, and data analysis across China, South Korea, and Europe.
+I am focused on building a career in data engineering and analytics engineering, with a background in social science, business, and data analysis across China, South Korea, and Europe.
 
-My focus is on building reliable data systems — from ingestion to transformation — and designing data models that support analytics and decision-making.
+My work centers on building reliable data systems — from ingestion to transformation — and designing data models that support analytics and decision-making.
 
 ---
 
@@ -15,7 +15,6 @@ End-to-end batch data pipeline on GCP using Airflow, dbt, and BigQuery.
 - Designed layered data models (staging → fact → marts) using dbt  
 - Implemented data quality tests and optimized warehouse performance  
 
-Project:  
 https://github.com/Dino-Lu/retail-sales-analytics-pipeline
 
 ---
@@ -27,7 +26,7 @@ https://github.com/Dino-Lu/retail-sales-analytics-pipeline
 - **Orchestration:** Apache Airflow  
 - **Cloud:** Google Cloud Platform (BigQuery, GCS)  
 - **Infrastructure:** Terraform, Docker
-- **Other:** Git, Bash
+- **Development:** Git, Bash
 
 ---
 
@@ -41,7 +40,7 @@ https://github.com/Dino-Lu/retail-sales-analytics-pipeline
 
 ## Current Focus
 
-- Data pipeline design (batch workflows)  
+- Data pipeline design (batch/streaming workflows)  
 - Data modeling for analytics  
 - Data quality and reliability  
 
@@ -49,14 +48,6 @@ https://github.com/Dino-Lu/retail-sales-analytics-pipeline
 
 ## Contact
 
-GitHub: https://github.com/Dino-Lu  
-LinkedIn: www.linkedin.com/in/jinxuan-lu  
-Email: ji4228lu@gmail.com
-
-<div align="center">
-	<img src = "https://komarev.com/ghpvc/?username=Dino-Lu&style=plastic&color=blueviolet" alt = "Profile Views"/>
-  <br/>
-	<!--<img src="https://github.com/Dino-Lu/Dino-Lu/blob/output/github-contribution-grid-snake.gif" alt="snake gif"/>-->
-</div>
-
-
+GitHub:  https://github.com/Dino-Lu  
+LinkedIn:  www.linkedin.com/in/jinxuan-lu  
+Email:  ji4228lu@gmail.com
